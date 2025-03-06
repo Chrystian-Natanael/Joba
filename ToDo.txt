@@ -1,0 +1,5 @@
+pip install requests beautifulsoup4 selenium pandas schedule smtplib google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client
+
+
+pkg install python
+pip install requests beautifulsoup4 selenium pandas schedule smtplib
