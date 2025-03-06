@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-url = "https://www.vagas.com.br/vagas-de-dados"
+url = "https://www.vagas.com.br/vagas-de-desenvolvedor"
 headers = {"User-Agent": "Mozilla/5.0"}
 response = requests.get(url, headers=headers)
 
